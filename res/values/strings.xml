@@ -12227,4 +12227,8 @@
     <!-- OOS clear all button -->
     <string name="enable_clear_all_button">OOS clear buttons</string>
     <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+    
+    <!-- Screenshot compression -->
+    <string name="screenshot_compression_title">Screenshot quality</string>
+    <string name="screenshot_compression_summary">Compress screenshot size with loss in image quality</string>
 </resources>
